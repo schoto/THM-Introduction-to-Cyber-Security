@@ -1,0 +1,16 @@
+
+While offensive security is focused on breaking into system (attacks) the deffensive security does the opposite. 
+It prevents the attacks and helps to find "holes" in the system. It also detects the intrusions
+The team of deffensive security is called BLUE TEAM
+Some of their tasks include :
+
+-user cyber security awareness
+-documenting and managing assets
+-updating, patching and fixing systems
+-setting up preventative security devices
+-setting up logging and monitoring devices
+
+QA
+What would you call a team of cyber security professionals that monitors a network and its systems for malicious events? ---security operation center
+What does DFIR stand for? ---Digital Forensics and Incident Response
+Which kind of malware requires the user to pay money to regain access to their files? ---ransomware
