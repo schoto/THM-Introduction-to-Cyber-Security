@@ -1,0 +1,18 @@
+The content discusses web applications and their functionality. 
+It explains that web applications can be accessed without installation through web browsers like Firefox, Safari, or Chrome. 
+Examples of web applications include webmail services, online office suites, and online shopping sites. 
+The article also touches on the security aspects of web applications, such as bug bounty programs and common security risks 
+like identification and authentication failure, broken access control, injection, and cryptographic failures.
+
+In terms of security risks, if a login page allows an unlimited number of login attempts without slowing down the user or locking the account, 
+it falls under the category of "Identification and Authentication Failure." 
+When the username and password are sent in cleartext without encryption, it's also a security risk falling under the same category.
+
+The article later discusses Insecure Direct Object References (IDOR) as a type of Broken Access Control vulnerability.
+It explains that attackers can access information or perform actions not intended for them by manipulating input data.
+
+Finally, the content describes an exercise where users need to identify the user account used to make malicious changes, 
+revert those changes, and obtain a flag as a result of their actions.
+
+In summary, the content provides insights into web applications, their security risks, 
+and a practical exercise related to IDOR vulnerabilities.
