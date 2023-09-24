@@ -16,3 +16,18 @@ revert those changes, and obtain a flag as a result of their actions.
 
 In summary, the content provides insights into web applications, their security risks, 
 and a practical exercise related to IDOR vulnerabilities.
+
+
+This content discusses web applications and security risks associated with them. 
+Web applications can be used without installation, provided you have a modern web browser. 
+They include webmail, online office suites, and online shopping sites. 
+Security risks include unlimited login attempts (Identification and Authentication Failure), 
+sending sensitive data without encryption (Cryptographic Failures), 
+and Insecure Direct Object References (IDOR) leading to unauthorized access.
+
+To answer your questions:
+1. Unlimited login attempts without slowing down or locking the account 
+falls under the category of "Identification and Authentication Failure" security risk.
+2. Sending usernames and passwords in cleartext without encryption is also a "Cryptographic Failures" security risk.
+3. To discover which user account made malicious changes in the IDOR scenario, you need to check other users' accounts. 
+After reverting the changes, the flag you receive is not specified in the provided content.
